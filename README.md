@@ -71,10 +71,10 @@ SMTP Server - Host : smtp.gmx.com - Secure (SSL) - Port 465
 
 # == List of Best SMTP Servers ==
 
-[SMTP Service Providers](https://www.inkthemes.com/smtp-service-providers/)
-[SMTP Proviers](https://woofresh.com/smtp-service-providers/)
-[Best SMTP Service Providers](https://www.formget.com/best-smtp-servers/)
-[Best SMTP Relay Services](https://www.pabbly.com/best-smtp-relay-services/)
+* [SMTP Service Providers](https://www.inkthemes.com/smtp-service-providers/)
+* [SMTP Proviers](https://woofresh.com/smtp-service-providers/)
+* [Best SMTP Service Providers](https://www.formget.com/best-smtp-servers/)
+* [Best SMTP Relay Services](https://www.pabbly.com/best-smtp-relay-services/)
 
 # == Installation ==
 
